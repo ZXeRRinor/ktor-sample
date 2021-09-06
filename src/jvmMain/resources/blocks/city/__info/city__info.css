@@ -1,0 +1,10 @@
+.city__info {
+    display: block;
+    color: brown;
+
+    display: none;
+}
+
+.city__info_visable {
+    display: block;
+}
